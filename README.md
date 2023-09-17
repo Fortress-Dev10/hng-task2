@@ -10,7 +10,7 @@ Clone the repository to your local machine using Git:
 
 bash
 Copy code
-git clone https://github.com/your-username/react-movie-app.git
+git clone https://github.com/Fortress-Dev10 /react-movie-app.git
 Navigate to the project directory:
 
 bash
